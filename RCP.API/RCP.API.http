@@ -1,0 +1,6 @@
+@RCP.API_HostAddress = http://localhost:5290
+
+GET {{RCP.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
